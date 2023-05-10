@@ -2,7 +2,7 @@
 
 // display time as hh:mm
 const options = {
-    timeZone:"Europa/Madrid",
+    timeZone:"America/Chicago",
     hour12 : false,
     hour:  "2-digit",
     minute: "2-digit",
